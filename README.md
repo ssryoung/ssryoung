@@ -7,4 +7,4 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> -->
 
-![ssryoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssryoung&show_icons=true&theme=jolly)
+<!-- ![ssryoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssryoung&show_icons=true&theme=jolly) -->
